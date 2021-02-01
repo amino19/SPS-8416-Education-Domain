@@ -2,13 +2,12 @@
 
 Category : GoDaddy
 
-Skills Required:
-GoDaddy,WordPress
+Skills Required : GoDaddy,WordPress
 
-Project Description:
+Project Description :
 As a part of 36Hrs. Build-A-Thon you need to build an website for Education Sector.
 
-Based on (Education):
+Based on (Education) :
 
 Website for College :
 https://ygf.b95.myftpupload.com/
