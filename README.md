@@ -1,5 +1,5 @@
 # SPS-8416-Education-Domain
-Education Domain
+<h1> Education Domain </h1>
 
 Category: GoDaddy
 
