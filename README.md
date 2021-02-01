@@ -1,7 +1,7 @@
 # SPS-8416-Education-Domain
 <h3> Education Domain </h3>
 
-<h4>Category</h4>: GoDaddy
+<h4>Category</h4> : GoDaddy
 
 Skills Required:
 GoDaddy,WordPress
