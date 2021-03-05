@@ -1,6 +1,6 @@
 # SPS-8416-Education-Domain
 
-**Category : GoDaddy**
+**Category : <a href= "https://godaddyacademy.com/"> GoDaddy </a>**
 
 **Skills Required** : GoDaddy, WordPress
 
